@@ -45,7 +45,7 @@ Os candidatos poderão utilizar como referência os exemplos e materiais dos cur
 
 1. Crie um fork do repositório no seu GitHub.
 2. Faça o push do código desenvolvido no seu GitHub.
-3. Inclua um arquivo chamado `COMMENTS.md` explicando:
+3. Inclua um arquivo chamado `README.md` do projeto, explicando:
    - Decisão da arquitetura utilizada.
    - Lista de bibliotecas de terceiros utilizadas.
    - O que você melhoraria se tivesse mais tempo.
