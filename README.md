@@ -29,26 +29,61 @@ Figura – Dataset MNIST
 
 1. Exportar o modelo treinado para o formato TFLite, utilizando uma otimização como o 'dynamic range'.
 
-## Critérios de Avaliação
+## Estrutura de Pastas
 
+A estrutura de pastas que você utilizará será semelhante a esta:
+
+C:.
+│ model.h5
+│ requirements.txt
+│ train_model.py
+│ optimize_model.py
+│ model.tflite
+│
+├───.github
+│ └───workflows
+│ ci.yml
+
+- **model.h5**: Modelo treinado no formato Keras.
+- **requirements.txt**: Lista de bibliotecas necessárias para o projeto.
+- **train_model.py**: Script para treinar o modelo.
+- **optimize_model.py**: Script para otimizar o modelo.
+- **model.tflite**: Modelo otimizado no formato TensorFlow Lite.
+- **.github**: Diretório para configurações do GitHub Actions, se necessário.
+
+## Instruções para Início
+
+### 1. Criar uma conta no GitHub
+
+- Acesse <a data-v-2acd734d="" href="https://github.com/" class="reference-btn" target="_blank">https://github.com/</a>e clique em "Sign up".
+- Siga as instruções para criar sua conta.
+
+### 2. Clonar este repositório
+
+Após criar sua conta, siga estes passos para clonar o repositório:
+
+1. No seu terminal ou prompt de comando, navegue até o diretório onde você deseja clonar o repositório.
+2. Execute o seguinte comando (substitua `<URL do repositório>` pela URL do repositório que você deseja clonar):
+   ```bash
+   git clone <URL do repositório>
+
+3. Navegue até a pasta do repositório clonado:
+   cd nome-do-repositorio
+
+### 3. Critérios de Avaliação
 - Escolha da biblioteca adequada para o treinamento do modelo.
 - Realização das etapas de treinamento e teste de forma correta.
 - Uso de métricas adequadas para avaliar o desempenho do modelo.
 - Otimização do modelo para melhorar a acurácia e eficiência.
 - Implementação de boas práticas de codificação e organização do projeto.
+- **Observações Adicionais**
+Os candidatos poderão utilizar como referência os exemplos e materiais dos cursos de Fundamentos de IA para Sistemas Embarcados, Sistemas de Visão Computacional e Otimização de Modelos em Sistemas Embarcados. Esses recursos podem fornecer insights valiosos e orientações para a realização desta etapa prática.
 
-## Observações Adicionais
-
-Os candidatos poderão utilizar como referência os exemplos e materiais dos cursos de **Fundamentos de IA para Sistemas Embarcados**, **Sistemas de Visão Computacional** e **Otimização de Modelos em Sistemas Embarcados**. Esses recursos podem fornecer insights valiosos e orientações para a realização desta etapa prática.
-
-## Instruções de Entrega
-
-1. Crie um fork do repositório no seu GitHub.
-2. Faça o push do código desenvolvido no seu GitHub.
-3. Inclua um arquivo chamado `README.md` do projeto, explicando:
+### 4. Instruções de Entrega
+- Crie um fork do repositório no seu GitHub.
+- Faça o push do código desenvolvido no seu GitHub.
+- Inclua um arquivo chamado README.md do projeto, explicando:
    - Decisão da arquitetura utilizada.
    - Lista de bibliotecas de terceiros utilizadas.
-   - O que você melhoraria se tivesse mais tempo.
    - Quais requisitos obrigatórios que não foram entregues.
-4. Após finalizar, submeta o link do repositório do GitHub (ex. https://github.com/seuusuariogithub/nomedorepositorio).
-
+   - Após finalizar, submeta o link do repositório do GitHub (ex. https://github.com/seuusuariogithub/nomedorepositorio).
