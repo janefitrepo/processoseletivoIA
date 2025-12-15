@@ -10,7 +10,8 @@ Seu objetivo é realizar a classificação utilizando um modelo de Visão Comput
 
 O conjunto de dados definidos para este teste é o MNIST, que contém imagens de dígitos manuscritos (0-9). Este dataset faz parte da biblioteca do TensorFlow e será utilizado para treinar e avaliar seu modelo de classificação.
 
-<img width="654" height="384" alt="image" src="https://github.com/user-attachments/assets/2e510ab2-22c4-4910-80bd-c84e975189f1" />
+<img width="392" height="230" alt="image" src="https://github.com/user-attachments/assets/2e510ab2-22c4-4910-80bd-c84e975189f1" />
+
 Figura – Dataset MNIST
 
 ## Requisitos
