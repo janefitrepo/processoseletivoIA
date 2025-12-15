@@ -10,9 +10,14 @@ Seu objetivo é realizar a classificação utilizando um modelo de Visão Comput
 
 O conjunto de dados definidos para este teste é o MNIST, que contém imagens de dígitos manuscritos (0-9). Este dataset faz parte da biblioteca do TensorFlow e será utilizado para treinar e avaliar seu modelo de classificação.
 
+<img width="654" height="384" alt="image" src="https://github.com/user-attachments/assets/2e510ab2-22c4-4910-80bd-c84e975189f1" />
+Figura – Dataset MNIST
+
 ## Requisitos
 
 ### Etapa 1: 
+
+<img width="196" height="53" alt="image" src="https://github.com/user-attachments/assets/187e22a2-0a05-4f45-8db3-cd32eadb0ec4" />
 
 1. Carregar o dataset MNIST utilizando a biblioteca TensorFlow.
 2. Treinar um modelo de classificação de dígitos.
@@ -45,4 +50,4 @@ Os candidatos poderão utilizar como referência os exemplos e materiais dos cur
    - O que você melhoraria se tivesse mais tempo.
    - Quais requisitos obrigatórios que não foram entregues.
 4. Após finalizar, submeta o link do repositório do GitHub (ex. https://github.com/seuusuariogithub/nomedorepositorio).
-5. Participe do curso de fundamentos em Machine Learning e visão computacional para aprimorar ainda mais suas habilidades nesta área.
+
