@@ -33,16 +33,8 @@ Figura – Dataset MNIST
 
 A estrutura de pastas que você utilizará será semelhante a esta:
 
-C:.
-│ model.h5
-│ requirements.txt
-│ train_model.py
-│ optimize_model.py
-│ model.tflite
-│
-├───.github
-│ └───workflows
-│ ci.yml
+<img width="189" height="245" alt="image" src="https://github.com/user-attachments/assets/3712a743-c669-45be-9b60-5982d7708010" />
+
 
 - **model.h5**: Modelo treinado no formato Keras.
 - **requirements.txt**: Lista de bibliotecas necessárias para o projeto.
