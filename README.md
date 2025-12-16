@@ -269,20 +269,57 @@ Copie o link do seu repositório e envie conforme orientações do processo sele
 
 ## 📝 Relatório do Candidato
 
+O arquivo (`README.md`) deve ser utilizado como **relatório final do desafio**.
+Ele será analisado junto com o código enviado neste repositório.
+
+Preencha todas as seções de forma clara e objetiva.
+
+> 💡 Dica: este relatório não precisa ser extenso. O mais importante é
+> demonstrar que você compreende as decisões técnicas tomadas ao longo
+> do desafio.
+
+---
+
+## 👤 Identificação
+
 **Nome Completo:**  
 [Preencha aqui]
 
-### 1️⃣ Resumo da Arquitetura
-[Descreva a arquitetura do modelo]
+---
 
-### 2️⃣ Bibliotecas Utilizadas
-[Liste bibliotecas e versões]
+## 1️⃣ Resumo da Arquitetura do Modelo
 
-### 3️⃣ Técnica de Otimização
-[Explique a estratégia adotada]
+Descreva, em palavras, a arquitetura da **Rede Neural Convolucional (CNN)**
+que você implementou no arquivo `train_model.py`.
 
-### 4️⃣ Resultados Obtidos
-[Informe a acurácia final]
+---
 
-### 5️⃣ Comentários Adicionais (Opcional)
-[Observações relevantes]
+## 2️⃣ Bibliotecas Utilizadas
+
+Liste as principais bibliotecas utilizadas no projeto, preferencialmente
+com suas versões.
+
+---
+
+## 3️⃣ Técnica de Otimização do Modelo
+
+Explique qual técnica foi utilizada para otimizar o modelo no arquivo
+`optimize_model.py`.
+
+---
+
+## 4️⃣ Resultados Obtidos
+
+Informe o principal resultado obtido após o treinamento do modelo.
+
+---
+
+## 5️⃣ Comentários Adicionais (Opcional)
+
+Utilize este espaço para comentar:
+- Dificuldades encontradas
+- Decisões técnicas importantes
+- Limitações do modelo
+- Aprendizados durante o desafio
+
+Esta seção é opcional, mas pode ajudar na avaliação.
