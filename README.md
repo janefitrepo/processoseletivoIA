@@ -1,9 +1,9 @@
 # 🚀 Desafio Técnico  
-## Processo Seletivo – Laboratório Maker | Edge AI
+## Processo Seletivo – Laboratório Maker | AI
 
 Bem-vindo(a) à **etapa prática do processo seletivo para o Laboratório Intensivo Maker**.
 
-Esta atividade tem como objetivo avaliar competências técnicas relacionadas a **Visão Computacional**, **Machine Learning** e **implantação de modelos em dispositivos embarcados (Edge AI)**, a partir da aplicação prática dos conhecimentos adquiridos nos cursos EAD da etapa anterior.
+Esta atividade tem como objetivo avaliar competências técnicas relacionadas a **Visão Computacional**, **Machine Learning** e **Otimização de modelos para sistemas embarcados (Edge AI)**, a partir da aplicação prática dos conhecimentos adquiridos nos cursos EAD da etapa anterior.
 
 ---
 
