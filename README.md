@@ -39,6 +39,7 @@ Caso ainda não possua familiaridade com o GitHub, siga **obrigatoriamente** as 
 - **Linux / macOS**:  
   Verifique se o Git já está instalado executando no terminal:
   ```bash
+  git --version
 
 
 ## 🛠️ Passo 1: Preparação do Ambiente
