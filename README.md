@@ -58,6 +58,8 @@ Para desenvolver o desafio, você deverá criar uma cópia deste repositório e 
 
 ### 1️⃣ Fork do Repositório
 
+<img width="219" height="45" alt="image" src="https://github.com/user-attachments/assets/5d629626-513a-445c-ba0f-e5bb3e225187" />
+
 1. No canto superior direito desta página, clique em **Fork**
 2. Uma cópia deste repositório será criada no **seu perfil do GitHub**
 
