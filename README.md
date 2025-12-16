@@ -280,41 +280,35 @@ Preencha todas as seções de forma clara e objetiva.
 
 ---
 
-## 👤 Identificação
+### 👤 Identificação
 
 **Nome Completo:**  
-[Preencha aqui]
 
----
 
-## 1️⃣ Resumo da Arquitetura do Modelo
+### 1️⃣ Resumo da Arquitetura do Modelo
 
 Descreva, em palavras, a arquitetura da **Rede Neural Convolucional (CNN)**
 que você implementou no arquivo `train_model.py`.
 
----
 
-## 2️⃣ Bibliotecas Utilizadas
+### 2️⃣ Bibliotecas Utilizadas
 
 Liste as principais bibliotecas utilizadas no projeto, preferencialmente
 com suas versões.
 
----
 
-## 3️⃣ Técnica de Otimização do Modelo
+### 3️⃣ Técnica de Otimização do Modelo
 
 Explique qual técnica foi utilizada para otimizar o modelo no arquivo
 `optimize_model.py`.
 
----
 
-## 4️⃣ Resultados Obtidos
+### 4️⃣ Resultados Obtidos
 
 Informe o principal resultado obtido após o treinamento do modelo.
 
----
 
-## 5️⃣ Comentários Adicionais (Opcional)
+### 5️⃣ Comentários Adicionais (Opcional)
 
 Utilize este espaço para comentar:
 - Dificuldades encontradas
