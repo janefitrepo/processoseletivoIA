@@ -164,23 +164,12 @@ seu-repositorio/
 
 Os cursos realizados na etapa anterior **devem ser utilizados como referência**.
 
-### 📘 Fundamentos de IA para Sistemas Embarcados
-Apresenta os conceitos básicos de Machine Learning aplicados a dispositivos com recursos limitados, incluindo:
-- O que é Edge AI
-- Fluxo de treinamento e inferência
-- Restrições computacionais
+### 📘 Fundamentos de Inteligência Artificial para Sistemas Embarcados
 
-### 👁️ Sistemas de Visão Computacional
-Aborda os fundamentos de processamento de imagens e redes neurais, com exemplos de:
-- Classificação de imagens
-- Uso de datasets clássicos (como MNIST)
-- Construção de modelos com TensorFlow/Keras
+### 👁️ Sistemas de Visão Computacional Embarcada 
 
 ### ⚙️ Otimização de Modelos em Sistemas Embarcados
-Explora técnicas para tornar modelos mais leves e eficientes, incluindo:
-- TensorFlow Lite (LiteRT)
-- Quantização
-- Boas práticas para Edge AI
+Nome do cursoOtimização de Modelos em Sistemas Embarcados
 
 📌 *Os exemplos apresentados nesses cursos podem ser adaptados e reutilizados neste desafio.*
 
@@ -234,7 +223,7 @@ git push origin main
 
 ### 📎 Submissão Final
 
-Copie o link do seu repositório e envie conforme orientações do processo seletivo.
+Copie o link do seu repositório e envie conforme orientações do processo seletivo no Moodle.
 
 ---
 
