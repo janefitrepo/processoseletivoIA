@@ -61,16 +61,16 @@ Copie a URL no formato HTTPS
 No terminal (ou Git Bash), execute:
 
   ```bash
-git clone https://github.com/SEU_USUARIO/nome-do-repositorio.git
-cd nome-do-repositorio
-git --version
+  git clone https://github.com/SEU_USUARIO/nome-do-repositorio.git
+  cd nome-do-repositorio
+  git --version
 
 3️⃣ Instalação das Dependências
 
 Instale todas as bibliotecas necessárias para execução do projeto:
 
-```bash
-pip install -r requirements.txt
+  ```bash
+  pip install -r requirements.txt
 
 
 ## 💻 Passo 2: O Desafio Técnico
