@@ -62,7 +62,6 @@ Para desenvolver o desafio, você deverá criar uma cópia deste repositório e 
 
 📌 *O Fork permite que você trabalhe de forma independente sem alterar o repositório original.*
 
----
 
 ### 2️⃣ Clone do Repositório
 
@@ -81,7 +80,6 @@ cd nome-do-repositorio
 
 📌 *O comando `git clone` cria uma cópia local do repositório.*
 
----
 
 ### 3️⃣ Instalação das Dependências
 
@@ -102,7 +100,6 @@ O desafio consiste em desenvolver um **modelo de Visão Computacional** capaz de
 O foco não é apenas obter alta acurácia, mas também **compreender o fluxo completo**:
 treinamento → salvamento → conversão → otimização.
 
----
 
 ## 🎯 Conjunto de Dados
 
@@ -114,7 +111,6 @@ Será utilizado o dataset **MNIST**, composto por imagens de dígitos manuscrito
 
 📌 *O MNIST é amplamente utilizado para introdução à Visão Computacional e Redes Neurais.*
 
----
 
 ## ✅ Requisitos Obrigatórios
 
@@ -130,7 +126,6 @@ Implemente no arquivo `train_model.py` um código que realize:
 
 📌 *O modelo salvo será utilizado na etapa de otimização.*
 
----
 
 ### ⚡ Etapa 2: Otimização do Modelo (`optimize_model.py`)
 
@@ -143,7 +138,6 @@ No arquivo `optimize_model.py`, implemente:
 
 🎯 **Objetivo:** reduzir o tamanho do modelo, mantendo desempenho adequado para Edge AI.
 
----
 
 ## 📂 Estrutura do Projeto
 
@@ -163,7 +157,6 @@ seu-repositorio/
 └── README.md                 # 📝 Relatório final do candidato
 ```
 
----
 ## ⚠️ Restrições e Considerações de Engenharia
 
 Este desafio é avaliado automaticamente por meio de um pipeline de
@@ -195,8 +188,6 @@ que seu código execute corretamente nesse ambiente.
 > comum em aplicações reais de Edge AI.
 
 
----
-
 ## 📚 Material de Apoio
 
 Os cursos realizados na etapa anterior **devem ser utilizados como referência**.
@@ -209,7 +200,6 @@ Os cursos realizados na etapa anterior **devem ser utilizados como referência**
 
 📌 *Os exemplos apresentados nesses cursos podem ser adaptados e reutilizados neste desafio.*
 
----
 
 ## ⚖️ Critérios de Avaliação
 
@@ -234,7 +224,6 @@ Antes do envio, execute os scripts e confirme a geração dos arquivos:
 - `model.h5`
 - `model.tflite`
 
----
 
 ### ⬆️ Envio do Código
 
@@ -244,8 +233,6 @@ git commit -m "Entrega do desafio técnico - Seu Nome"
 git push origin main
 ```
 
----
-
 ### 🔍 Verificação Automática
 
 1. Acesse a aba **Actions** no GitHub
@@ -254,8 +241,6 @@ git push origin main
 
 <img width="807" height="363" alt="image" src="https://github.com/user-attachments/assets/d991d35b-2bc2-48f7-9ac7-cf5ca9dc452a" />
 
-
----
 
 ### 📎 Submissão Final
 
@@ -274,12 +259,10 @@ Preencha todas as seções de forma clara e objetiva.
 > demonstrar que você compreende as decisões técnicas tomadas ao longo
 > do desafio.
 
----
 
 ### 👤 Identificação
 
 **Nome Completo:**  
-
 
 ### 1️⃣ Resumo da Arquitetura do Modelo
 
