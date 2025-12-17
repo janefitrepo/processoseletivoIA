@@ -314,5 +314,3 @@ Utilize este espaço para comentar:
 - Decisões técnicas importantes
 - Limitações do modelo
 - Aprendizados durante o desafio
-
-Esta seção é opcional, mas pode ajudar na avaliação.
