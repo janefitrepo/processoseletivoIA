@@ -1,16 +1,16 @@
 # 🚀 Desafio Técnico  
 ## Processo Seletivo – Laboratório Maker | AI
 
-Bem-vindo(a) à **etapa prática do processo seletivo para o Laboratório Intensivo Maker**.
+Bem-vindo(a) à **etapa prática do processo seletivo para o Intensivo Laboratório Maker**.
 
-Esta atividade tem como objetivo avaliar competências técnicas relacionadas a **Visão Computacional**, **Machine Learning** e **Otimização de modelos para sistemas embarcados (Edge AI)**, a partir da aplicação prática dos conhecimentos adquiridos nos cursos EAD da etapa anterior.
+Esta atividade tem como objetivo avaliar competências técnicas relacionadas a **Machine Learning**, **Visão Computacional** e **Otimização de modelos para sistemas embarcados (Edge AI)**, a partir da aplicação prática dos conhecimentos adquiridos nos cursos EAD da etapa anterior.
 
 ---
 
 ## 📌 Navegação Rápida
 
 - 🏁 [Passo 0 – Antes de Tudo](#-passo-0-antes-de-tudo)
-- 🖥️ [Passo 1 – Preparando o Ambiente](#-passo-1-preparando-o-ambiente)
+- ⚙ [Passo 1 – Preparando o Ambiente](#-passo-1-preparando-o-ambiente)
 - 💻 [Passo 2 – O Desafio Técnico](#-passo-2-o-desafio-técnico)
   - 🎯 [Conjunto de Dados](#-conjunto-de-dados)
   - 📂 [Estrutura do Projeto](#-estrutura-do-projeto)
@@ -52,7 +52,7 @@ O **Git** é a ferramenta que permite versionar e enviar seu código para o GitH
 
 ---
 
-## 🖥️ Passo 1: Preparando o Ambiente
+## ⚙ Passo 1: Preparando o Ambiente
 
 Para desenvolver o desafio, você deverá criar uma cópia deste repositório e baixá-la para seu computador.
 
