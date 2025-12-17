@@ -1,5 +1,4 @@
-# 🚀 Desafio Técnico  
-## Processo Seletivo – Laboratório Maker | AI
+# Processo Seletivo – Laboratório Maker | AI
 
 Bem-vindo(a) à **etapa prática do processo seletivo para o Intensivo Laboratório Maker**.
 
