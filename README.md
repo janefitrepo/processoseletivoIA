@@ -1,6 +1,6 @@
-# Processo Seletivo – Laboratório Maker | AI
+# Processo Seletivo – Intensivo Maker | AI
 
-Bem-vindo(a) à **etapa prática do processo seletivo para o Intensivo Laboratório Maker**.
+Bem-vindo(a) à **etapa prática do processo seletivo para o Intensivo Maker**.
 
 Esta atividade tem como objetivo avaliar competências técnicas relacionadas a **Machine Learning**, **Visão Computacional** e **Otimização de modelos para sistemas embarcados (Edge AI)**, a partir da aplicação prática dos conhecimentos adquiridos nos cursos EAD da etapa anterior.
 
