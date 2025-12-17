@@ -4,7 +4,6 @@ Bem-vindo(a) à **etapa prática do processo seletivo para o Intensivo Maker**.
 
 Esta atividade tem como objetivo avaliar competências técnicas relacionadas a **Machine Learning**, **Visão Computacional** e **Otimização de modelos para sistemas embarcados (Edge AI)**, a partir da aplicação prática dos conhecimentos adquiridos nos cursos EAD da etapa anterior.
 
----
 
 ### 📌 Navegação Rápida
 
@@ -33,7 +32,6 @@ Siga atentamente as etapas abaixo.
 
 📌 *O GitHub será utilizado para envio, versionamento e correção automática do seu projeto.*
 
----
 
 ### 2️⃣ Instalação do Git
 
