@@ -10,7 +10,7 @@ Esta atividade tem como objetivo avaliar competências técnicas relacionadas a 
 ## 📌 Navegação Rápida
 
 - 🏁 [Passo 0 – Antes de Tudo](#-passo-0-antes-de-tudo)
-- 🛠️ [Passo 1 – Preparação do Ambiente](#-preparação-do-ambiente)
+- 🛠️ [Passo 1 – Preparação do Ambiente](#-passo-1-preparação-do-ambiente)
 - 💻 [Passo 2 – O Desafio Técnico](#-passo-2-o-desafio-técnico)
   - 🎯 [Conjunto de Dados](#-conjunto-de-dados)
   - 📂 [Estrutura do Projeto](#-estrutura-do-projeto)
