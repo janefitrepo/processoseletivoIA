@@ -35,7 +35,7 @@ Siga atentamente as etapas abaixo.
 2. Clique em **Sign up**  
 3. Crie sua conta gratuita seguindo as instruções da plataforma  
 
-📌 *O GitHub será utilizado para envio, versionamento e correção automática do seu projeto.*
+(*O GitHub será utilizado para envio, versionamento e correção automática do seu projeto.*)
 
 
 ### 2️⃣ Instalação do Git
@@ -63,7 +63,7 @@ Para desenvolver o desafio, você deverá criar uma cópia deste repositório.
 1. No canto superior direito desta página, clique em **Fork**  
 2. Uma cópia deste repositório será criada no **seu perfil do GitHub**
 
-📌 *O Fork permite que você trabalhe de forma independente sem alterar o repositório original.*
+(*O Fork permite que você trabalhe de forma independente sem alterar o repositório original.*)
 
 
 
@@ -76,7 +76,7 @@ git clone https://github.com/SEU_USUARIO/nome-do-repositorio.git
 cd nome-do-repositorio
 ```
 
-📌 *O comando `git clone` cria uma cópia do repositório.*
+(*O comando `git clone` cria uma cópia do repositório.*)
 
 
 
@@ -89,7 +89,7 @@ Você pode executar o projeto de **duas formas**.
 #### ✅ Opção A – Ambiente Python Local 
 
 
-### Requisitos
+Requisitos:
 - Python **3.10 ou 3.11**
 - pip
 
