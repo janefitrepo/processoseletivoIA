@@ -62,7 +62,6 @@ Para desenvolver o desafio, você deverá criar uma cópia deste repositório.
 
 1. No canto superior direito desta página, clique em **Fork**  
 2. Uma cópia deste repositório será criada no **seu perfil do GitHub**
-
 (*O Fork permite que você trabalhe de forma independente sem alterar o repositório original.*)
 
 
@@ -75,7 +74,6 @@ No repositório do **seu Fork**, clique em **<> Code**, copie a URL e execute:
 git clone https://github.com/SEU_USUARIO/nome-do-repositorio.git
 cd nome-do-repositorio
 ```
-
 (*O comando `git clone` cria uma cópia do repositório.*)
 
 
@@ -86,7 +84,7 @@ Você pode executar o projeto de **duas formas**.
 
 
 
-#### ✅ Opção A – Ambiente Python Local 
+#### Opção A – Ambiente Python Local 
 
 
 Requisitos:
@@ -101,7 +99,7 @@ pip install -r requirements.txt
 
 
 
-#### 🐳 Opção B – Dev Container 
+#### Opção B – Dev Container 
 
 Este repositório inclui um **Dev Container** para facilitar a criação de um ambiente Python padronizado.
 
