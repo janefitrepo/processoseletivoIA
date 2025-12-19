@@ -5,8 +5,7 @@ Bem-vindo(a) à **etapa prática do processo seletivo para o Intensivo Maker**.
 Esta atividade tem como objetivo avaliar competências técnicas relacionadas a **Machine Learning**, **Visão Computacional** e **Otimização de modelos para sistemas embarcados (Edge AI)**, a partir da aplicação prática dos conhecimentos adquiridos nos cursos EAD da etapa anterior.
 
 > 🎯 **Importante:**  
-> O foco deste desafio é avaliar sua capacidade de **projetar, treinar e otimizar um modelo de IA**, e **não** a configuração de ambientes ou o uso de ferramentas avançadas como Docker.
-
+> O foco deste desafio é avaliar sua capacidade de **projetar, treinar e otimizar um modelo de IA**.
 ---
 
 ## 📌 Navegação Rápida
