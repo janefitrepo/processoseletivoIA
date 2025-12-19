@@ -6,7 +6,6 @@ Esta atividade tem como objetivo avaliar competências técnicas relacionadas a 
 
 > 🎯 **Importante**  
 > O foco deste desafio é avaliar sua capacidade de **projetar, treinar e otimizar um modelo de IA**.  
-> A configuração de ambiente **não faz parte da avaliação**.
 
 ---
 
@@ -37,7 +36,7 @@ Siga atentamente as etapas abaixo.
 
 📌 *O GitHub será utilizado para envio, versionamento e correção automática do seu projeto.*
 
----
+
 
 ### 2️⃣ Instalação do Git
 
@@ -57,7 +56,7 @@ O **Git** é a ferramenta que permite versionar e enviar seu código para o GitH
 
 ## ⚙ Passo 1: Preparando o Ambiente
 
-Para desenvolver o desafio, você deverá criar uma cópia deste repositório e baixá-la para seu computador.
+Para desenvolver o desafio, você deverá criar uma cópia deste repositório.
 
 ### 1️⃣ Fork do Repositório
 
@@ -66,7 +65,7 @@ Para desenvolver o desafio, você deverá criar uma cópia deste repositório e 
 
 📌 *O Fork permite que você trabalhe de forma independente sem alterar o repositório original.*
 
----
+
 
 ### 2️⃣ Clone do Repositório
 
@@ -77,9 +76,9 @@ git clone https://github.com/SEU_USUARIO/nome-do-repositorio.git
 cd nome-do-repositorio
 ```
 
-📌 *O comando `git clone` cria uma cópia local do repositório.*
+📌 *O comando `git clone` cria uma cópia do repositório.*
 
----
+
 
 ### 3️⃣ Preparação do Ambiente de Execução
 
@@ -87,9 +86,8 @@ Você pode executar o projeto de **duas formas**.
 
 ---
 
-## ✅ Opção A – Ambiente Python Local (Recomendado)
+## ✅ Opção A – Ambiente Python Local 
 
-Esta é a forma **mais simples e recomendada**, especialmente para quem está iniciando.
 
 ### Requisitos
 - Python **3.10 ou 3.11**
@@ -103,7 +101,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🐳 Opção B – Dev Container (Opcional)
+## 🐳 Opção B – Dev Container 
 
 Este repositório inclui um **Dev Container** para facilitar a criação de um ambiente Python padronizado.
 
@@ -121,9 +119,6 @@ Este repositório inclui um **Dev Container** para facilitar a criação de um a
 
 ➡️ As dependências serão instaladas automaticamente.
 
-> 💡 **Observação importante:**  
-> O uso do Dev Container é **opcional** e **não faz parte da avaliação**.  
-> O pipeline de correção automática **não utiliza Docker**.
 
 ---
 
@@ -135,9 +130,9 @@ O foco não é apenas obter alta acurácia, mas também **compreender o fluxo co
 
 **treinamento → salvamento → conversão → otimização**
 
----
 
-## 🎯 Conjunto de Dados
+
+### 🎯 Conjunto de Dados
 
 Será utilizado o dataset **MNIST**, composto por imagens de dígitos manuscritos de **0 a 9**.
 
@@ -145,11 +140,11 @@ Será utilizado o dataset **MNIST**, composto por imagens de dígitos manuscrito
 
 📌 *O MNIST é amplamente utilizado para introdução à Visão Computacional e Redes Neurais.*
 
----
 
-## ✅ Requisitos Obrigatórios
 
-### 🧠 Etapa 1: Treinamento do Modelo (`train_model.py`)
+###  ✅ Requisitos Obrigatórios
+
+#### 🧠 Etapa 1: Treinamento do Modelo (`train_model.py`)
 
 Implemente no arquivo `train_model.py` um código que realize:
 
@@ -162,9 +157,9 @@ Implemente no arquivo `train_model.py` um código que realize:
 
 📌 *O modelo salvo será utilizado na etapa de otimização.*
 
----
 
-### ⚡ Etapa 2: Otimização do Modelo (`optimize_model.py`)
+
+#### ⚡ Etapa 2: Otimização do Modelo (`optimize_model.py`)
 
 No arquivo `optimize_model.py`, implemente:
 
@@ -175,9 +170,9 @@ No arquivo `optimize_model.py`, implemente:
 
 🎯 **Objetivo:** reduzir o tamanho do modelo, mantendo desempenho adequado para aplicações de **Edge AI**.
 
----
 
-## 📂 Estrutura do Projeto
+
+### 📂 Estrutura do Projeto
 
 ⚠️ **Atenção:**  
 A estrutura e os nomes dos arquivos **não devem ser alterados**.
@@ -197,9 +192,9 @@ seu-repositorio/
 └── README.md                 # 📝 Relatório final do candidato
 ```
 
----
 
-## ⚠️ Restrições e Considerações de Engenharia
+
+### ⚠️ Restrições e Considerações de Engenharia
 
 Este desafio é avaliado automaticamente por meio de um pipeline de
 **integração contínua (CI)**, executado em um ambiente controlado e com
@@ -208,7 +203,7 @@ restrições de recursos computacionais.
 Você **não precisa conhecer GitHub Actions** para realizar o desafio.
 No entanto, é importante respeitar as diretrizes abaixo.
 
-### Diretrizes para o Modelo
+#### Diretrizes para o Modelo
 
 - O modelo deve ser uma **CNN simples**, adequada para **Edge AI**
 - Evite arquiteturas muito profundas ou complexas
@@ -216,7 +211,7 @@ No entanto, é importante respeitar as diretrizes abaixo.
 - **Não utilize modelos pré-treinados**
 - Número de épocas **limitado** (ex: até 5)
 
-### Diretrizes de Execução
+#### Diretrizes de Execução
 
 - Treinamento apenas em **CPU**
 - Tempo total reduzido (compatível com CI)
@@ -227,9 +222,9 @@ No entanto, é importante respeitar as diretrizes abaixo.
 > **engenharia eficiente**, compatível com ambientes automatizados e
 > restrições típicas de aplicações reais de Edge AI.
 
----
 
-## 📚 Material de Apoio
+
+### 📚 Material de Apoio
 
 Os cursos realizados na etapa anterior **devem ser utilizados como referência**.
 
@@ -239,9 +234,9 @@ Os cursos realizados na etapa anterior **devem ser utilizados como referência**
 
 📌 *Os exemplos apresentados nesses cursos podem ser adaptados e reutilizados neste desafio.*
 
----
 
-## ⚖️ Critérios de Avaliação
+
+### ⚖️ Critérios de Avaliação
 
 A avaliação considerará:
 
@@ -258,7 +253,7 @@ A avaliação considerará:
 
 ## 📤 Passo 3: Instruções de Entrega
 
-### ✔️ Validação Local
+### ✔️ Validação 
 
 Antes do envio, execute os scripts e confirme a geração dos arquivos:
 - `model.h5`
@@ -274,7 +269,7 @@ git commit -m "Entrega do desafio técnico - Seu Nome"
 git push origin main
 ```
 
----
+
 
 ### 🔍 Verificação Automática
 
@@ -282,7 +277,7 @@ git push origin main
 2. Verifique se o workflow foi executado com sucesso (✅)  
 3. Em caso de erro (❌), consulte os logs, corrija e envie novamente
 
----
+
 
 ### 📎 Submissão Final
 
@@ -305,34 +300,34 @@ Preencha todas as seções de forma clara e objetiva.
 
 **Nome Completo:**
 
----
+
 
 ### 1️⃣ Resumo da Arquitetura do Modelo
 
 Descreva, em palavras, a arquitetura da **CNN** implementada no arquivo
 `train_model.py`.
 
----
+
 
 ### 2️⃣ Bibliotecas Utilizadas
 
 Liste as principais bibliotecas utilizadas no projeto, preferencialmente
 com suas versões.
 
----
+
 
 ### 3️⃣ Técnica de Otimização do Modelo
 
 Explique qual técnica foi utilizada para otimizar o modelo no arquivo
 `optimize_model.py`.
 
----
+
 
 ### 4️⃣ Resultados Obtidos
 
 Informe o principal resultado obtido após o treinamento do modelo.
 
----
+
 
 ### 5️⃣ Comentários Adicionais (Opcional)
 
