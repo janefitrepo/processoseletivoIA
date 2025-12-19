@@ -60,6 +60,7 @@ Para desenvolver o desafio, você deverá criar uma cópia deste repositório.
 
 ### 1️⃣ Fork do Repositório
 
+<img width="219" height="45" alt="image" src="https://github.com/user-attachments/assets/5d629626-513a-445c-ba0f-e5bb3e225187" />
 1. No canto superior direito desta página, clique em **Fork**  
 2. Uma cópia deste repositório será criada no **seu perfil do GitHub**
 (*O Fork permite que você trabalhe de forma independente sem alterar o repositório original.*)
@@ -68,6 +69,7 @@ Para desenvolver o desafio, você deverá criar uma cópia deste repositório.
 
 ### 2️⃣ Clone do Repositório
 
+<img width="149" height="52" alt="image" src="https://github.com/user-attachments/assets/abbd331b-a005-4633-89c6-afd16acbe828" />
 No repositório do **seu Fork**, clique em **<> Code**, copie a URL e execute:
 
 ```bash
@@ -128,6 +130,7 @@ O foco não é apenas obter alta acurácia, mas também **compreender o fluxo co
 ### 🎯 Conjunto de Dados
 
 Será utilizado o dataset **MNIST**, composto por imagens de dígitos manuscritos de **0 a 9**.
+<img width="500" height="294" alt="image" src="https://github.com/user-attachments/assets/f323b4cc-d759-4e05-bb58-13e4d6dc7e5b" />
 
 ✔️ O dataset já está disponível na biblioteca **TensorFlow/Keras**, não sendo necessário download manual.
 
