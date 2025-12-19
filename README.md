@@ -28,6 +28,7 @@ Esta atividade tem como objetivo avaliar competências técnicas relacionadas a 
 Caso você **nunca tenha utilizado Git ou GitHub**, não se preocupe.  
 Siga atentamente as etapas abaixo.
 
+
 ### 1️⃣ Criação de Conta no GitHub
 
 1. Acesse: https://github.com  
@@ -35,7 +36,6 @@ Siga atentamente as etapas abaixo.
 3. Crie sua conta gratuita seguindo as instruções da plataforma  
 
 📌 *O GitHub será utilizado para envio, versionamento e correção automática do seu projeto.*
-
 
 
 ### 2️⃣ Instalação do Git
@@ -84,9 +84,9 @@ cd nome-do-repositorio
 
 Você pode executar o projeto de **duas formas**.
 
----
 
-## ✅ Opção A – Ambiente Python Local 
+
+#### ✅ Opção A – Ambiente Python Local 
 
 
 ### Requisitos
@@ -99,20 +99,20 @@ Instale as dependências com:
 pip install -r requirements.txt
 ```
 
----
 
-## 🐳 Opção B – Dev Container 
+
+#### 🐳 Opção B – Dev Container 
 
 Este repositório inclui um **Dev Container** para facilitar a criação de um ambiente Python padronizado.
 
 📌 **Use esta opção apenas se você já estiver familiarizado com VS Code e Docker.**
 
-### Requisitos
+**Requisitos**
 - VS Code
 - Docker instalado
 - Extensão **Dev Containers**
 
-### Passos
+**Passos**
 1. Abra o repositório no VS Code  
 2. Selecione **“Reopen in Container”**  
 3. Aguarde a criação automática do ambiente  
@@ -259,7 +259,7 @@ Antes do envio, execute os scripts e confirme a geração dos arquivos:
 - `model.h5`
 - `model.tflite`
 
----
+
 
 ### ⬆️ Envio do Código
 
