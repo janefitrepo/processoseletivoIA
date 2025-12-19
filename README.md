@@ -61,6 +61,7 @@ Para desenvolver o desafio, você deverá criar uma cópia deste repositório.
 ### 1️⃣ Fork do Repositório
 
 <img width="219" height="45" alt="image" src="https://github.com/user-attachments/assets/5d629626-513a-445c-ba0f-e5bb3e225187" />
+
 1. No canto superior direito desta página, clique em **Fork**  
 2. Uma cópia deste repositório será criada no **seu perfil do GitHub**
 (*O Fork permite que você trabalhe de forma independente sem alterar o repositório original.*)
@@ -70,6 +71,7 @@ Para desenvolver o desafio, você deverá criar uma cópia deste repositório.
 ### 2️⃣ Clone do Repositório
 
 <img width="149" height="52" alt="image" src="https://github.com/user-attachments/assets/abbd331b-a005-4633-89c6-afd16acbe828" />
+
 No repositório do **seu Fork**, clique em **<> Code**, copie a URL e execute:
 
 ```bash
