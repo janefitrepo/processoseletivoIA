@@ -142,7 +142,7 @@ Será utilizado o dataset **MNIST**, composto por imagens de dígitos manuscrito
 
 ###  ✅ Requisitos Obrigatórios
 
-🧠 Etapa 1: Treinamento do Modelo (`train_model.py`)
+**Etapa 1:**  Treinamento do Modelo (`train_model.py`)
 
 Implemente no arquivo `train_model.py` um código que realize:
 
@@ -157,7 +157,7 @@ Implemente no arquivo `train_model.py` um código que realize:
 
 
 
-⚡ Etapa 2: Otimização do Modelo (`optimize_model.py`)
+**Etapa 2:** Otimização do Modelo (`optimize_model.py`)
 
 No arquivo `optimize_model.py`, implemente:
 
