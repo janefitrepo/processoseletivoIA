@@ -85,8 +85,6 @@ Você pode executar o projeto de **duas formas**.
 
 
 #### Opção A – Ambiente Python Local 
-
-
 Requisitos:
 - Python **3.10 ou 3.11**
 - pip
@@ -100,10 +98,7 @@ pip install -r requirements.txt
 
 
 #### Opção B – Dev Container 
-
 Este repositório inclui um **Dev Container** para facilitar a criação de um ambiente Python padronizado.
-
-📌 **Use esta opção apenas se você já estiver familiarizado com VS Code e Docker.**
 
 **Requisitos**
 - VS Code
@@ -142,7 +137,7 @@ Será utilizado o dataset **MNIST**, composto por imagens de dígitos manuscrito
 
 ###  ✅ Requisitos Obrigatórios
 
-#### 🧠 Etapa 1: Treinamento do Modelo (`train_model.py`)
+🧠 Etapa 1: Treinamento do Modelo (`train_model.py`)
 
 Implemente no arquivo `train_model.py` um código que realize:
 
@@ -153,11 +148,11 @@ Implemente no arquivo `train_model.py` um código que realize:
 - Exibição da **acurácia final** no terminal
 - Salvamento do modelo treinado no formato **Keras** (`.h5` ou `.keras`)
 
-📌 *O modelo salvo será utilizado na etapa de otimização.*
+(*O modelo salvo será utilizado na etapa de otimização.*)
 
 
 
-#### ⚡ Etapa 2: Otimização do Modelo (`optimize_model.py`)
+⚡ Etapa 2: Otimização do Modelo (`optimize_model.py`)
 
 No arquivo `optimize_model.py`, implemente:
 
@@ -166,7 +161,7 @@ No arquivo `optimize_model.py`, implemente:
 - Aplicação de técnica de otimização, como:
   - **Dynamic Range Quantization**
 
-🎯 **Objetivo:** reduzir o tamanho do modelo, mantendo desempenho adequado para aplicações de **Edge AI**.
+(**Objetivo:** reduzir o tamanho do modelo, mantendo desempenho adequado para aplicações de **Edge AI**.)
 
 
 
@@ -201,7 +196,7 @@ restrições de recursos computacionais.
 Você **não precisa conhecer GitHub Actions** para realizar o desafio.
 No entanto, é importante respeitar as diretrizes abaixo.
 
-#### Diretrizes para o Modelo
+**Diretrizes para o Modelo**
 
 - O modelo deve ser uma **CNN simples**, adequada para **Edge AI**
 - Evite arquiteturas muito profundas ou complexas
@@ -215,7 +210,7 @@ No entanto, é importante respeitar as diretrizes abaixo.
 - Tempo total reduzido (compatível com CI)
 - Código deve executar do início ao fim **sem intervenção manual**
 
-> 💡 **Importante:**  
+> **Importante:**  
 > O objetivo não é obter a maior acurácia possível, mas sim demonstrar
 > **engenharia eficiente**, compatível com ambientes automatizados e
 > restrições típicas de aplicações reais de Edge AI.
@@ -230,7 +225,7 @@ Os cursos realizados na etapa anterior **devem ser utilizados como referência**
 - 👁️ **Sistemas de Visão Computacional Embarcada**
 - ⚙️ **Otimização de Modelos em Sistemas Embarcados**
 
-📌 *Os exemplos apresentados nesses cursos podem ser adaptados e reutilizados neste desafio.*
+(*Os exemplos apresentados nesses cursos podem ser adaptados e reutilizados neste desafio.*)
 
 
 
@@ -274,6 +269,8 @@ git push origin main
 1. Acesse a aba **Actions** no GitHub  
 2. Verifique se o workflow foi executado com sucesso (✅)  
 3. Em caso de erro (❌), consulte os logs, corrija e envie novamente
+
+<img width="807" height="363" alt="image" src="https://github.com/user-attachments/assets/d991d35b-2bc2-48f7-9ac7-cf5ca9dc452a" />
 
 
 
