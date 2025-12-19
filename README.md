@@ -11,13 +11,16 @@ Esta atividade tem como objetivo avaliar competências técnicas relacionadas a 
 
 ## 📌 Navegação Rápida
 
-- 🏁 Passo 0 – Antes de Tudo  
-- ⚙ Passo 1 – Preparando o Ambiente  
-- 💻 Passo 2 – O Desafio Técnico  
-- 📂 Estrutura do Projeto  
-- ⚠️ Restrições e Considerações de Engenharia  
-- 📤 Passo 3 – Instruções de Entrega  
-- 📝 Relatório do Candidato  
+- 🏁 [Passo 0 – Antes de Tudo](#-passo-0-antes-de-tudo)
+- ⚙ [Passo 1 – Preparando o Ambiente](#-passo-1-preparando-o-ambiente)
+- 💻 [Passo 2 – O Desafio Técnico](#-passo-2-o-desafio-técnico)
+  - 🎯 [Conjunto de Dados](#-conjunto-de-dados)
+  - 📂 [Estrutura do Projeto](#-estrutura-do-projeto)
+  - 📚 [Material de Apoio](#-material-de-apoio)
+  - ⚖️ [Critérios de Avaliação](#️-critérios-de-avaliação)
+- 📤 [Passo 3 – Instruções de Entrega](#-passo-3-instruções-de-entrega)
+  - 📝 [Relatório do Candidato](#-relatório-do-candidato)
+
 
 ---
 
