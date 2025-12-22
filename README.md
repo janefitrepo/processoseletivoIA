@@ -117,6 +117,16 @@ Este repositório inclui um **Dev Container** para facilitar a criação de um a
 ➡️ As dependências serão instaladas automaticamente.
 
 
+#### Opção B - via browser
+Você também pode abrir o container via github codespace
+
+1. Clique em <> Code
+2. Clique em Codespaces
+3. Clique em Create codespace on image
+
+>  Será aberto uma instância do VS Code no seu navegador com o container configurado
+
+
 ---
 
 ## 💻 Passo 2: O Desafio Técnico
