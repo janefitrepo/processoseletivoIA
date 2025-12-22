@@ -124,7 +124,8 @@ Você também pode abrir o container via github codespace
 2. Clique em **Codespaces**
 3. Clique em **Create codespace on image**
 
-<img width="510" height="463" alt="image" src="https://github.com/user-attachments/assets/798c25ea-c4e1-4ab4-a048-5c254de7be6b" />
+<img width="482" height="436" alt="image" src="https://github.com/user-attachments/assets/37a1e99d-66d2-4730-b824-26f834bd8cc3" />
+
 
 >  Será aberto uma instância do VS Code no seu navegador com o container configurado
 
